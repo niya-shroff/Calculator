@@ -1,4 +1,4 @@
-# Simple-Calculator-Application
+# Simple Calculator Application
 
 This is a full functional calculator application that I made using JavaFx and SceneBuilder.
 
